@@ -18,8 +18,9 @@ InstaBuy is a full-stack, distributed E-commerce platform that connects buyers a
   <tr>
     <td align="center"><img src="docs/images/VendorProducts.png" alt="Vendor Products" width="300" /><br /><b>Vendor Products</b></td>
     <td align="center"><img src="docs/images/Vendor%20Dashboard.png" alt="Vendor Dashboard" width="300" /><br /><b>Vendor Dashboard</b></td>
-    <td align="center"></td>
+    <td align="center"><img src="docs/images/Invoice.png" alt="Vendor Dashboard" width="300" /><br /><b>Vendor Dashboard</b></td>
   </tr>
+  
 </table>
 
 ## 🚀 Features
