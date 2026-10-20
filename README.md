@@ -1,4 +1,4 @@
-# InstaBuy
+# InstaMart
 
 InstaBuy is a full-stack, distributed E-commerce platform that connects buyers and vendors. The application features a robust microservices backend powered by Spring Boot and a dynamic frontend built with React.
 
